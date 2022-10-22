@@ -84,7 +84,7 @@ let resumeData = {
       {
         "name":"Programming Academy",
         "description":"Check it Out",
-        "imgurl":"images/portfolio/academy.PNg",
+        "imgurl":"images/portfolio/academy.PNG",
         "url": "https://francis-onu.github.io/academy/"
       },
       {
